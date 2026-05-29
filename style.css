@@ -86,3 +86,10 @@ footer {
         padding: 20px;
     }
 }
+
+input, textarea {
+    padding: 10px;
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
